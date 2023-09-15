@@ -16,7 +16,7 @@ Let's connect and chat about software development, coding, and more:
 - 🌍 Youtube:  (https://youtube.com/@Soft-TronicsBytes?si=CJNjaiYR-C2r2QkS)
 
 
-In my free time, I enjoy [write poems].
+In my free time, I enjoy writing poems.
 
 Feel free to explore my projects and repositories, and don't hesitate to reach out if you'd like to collaborate . Let's make the coding world a better place together! 😄
 
